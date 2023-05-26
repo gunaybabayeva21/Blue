@@ -1,0 +1,1305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Blue.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blue.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\admin\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\grunt\\.jshintrc",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\grunt\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\grunt\\bs-commonjs-generator.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\grunt\\bs-commonjs-generator.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\grunt\\bs-glyphicons-data-generator.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\grunt\\bs-glyphicons-data-generator.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\grunt\\bs-lessdoc-parser.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\grunt\\bs-lessdoc-parser.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\grunt\\bs-raw-files-generator.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\grunt\\bs-raw-files-generator.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\grunt\\configBridge.json",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\grunt\\configBridge.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\grunt\\sauce_browsers.yml",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\grunt\\sauce_browsers.yml"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\affix.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\affix.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\alert.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\button.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\collapse.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\dropdown.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\modal.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\popover.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\scrollspy.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\tab.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\js\\transition.js",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\js\\transition.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\alerts.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\badges.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\badges.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\bootstrap.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\bootstrap.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\breadcrumbs.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\breadcrumbs.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\button-groups.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\button-groups.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\buttons.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\carousel.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\carousel.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\close.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\close.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\code.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\code.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\component-animations.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\component-animations.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\dropdowns.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\dropdowns.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\forms.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\glyphicons.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\glyphicons.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\grid.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\grid.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\input-groups.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\input-groups.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\jumbotron.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\jumbotron.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\labels.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\list-group.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\list-group.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\media.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\media.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\alerts.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\background-variant.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\background-variant.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\border-radius.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\border-radius.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\buttons.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\center-block.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\center-block.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\clearfix.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\clearfix.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\forms.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\gradients.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\gradients.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\grid-framework.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\grid-framework.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\grid.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\grid.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\hide-text.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\hide-text.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\image.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\image.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\labels.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\list-group.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\list-group.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\nav-divider.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\nav-divider.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\nav-vertical-align.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\nav-vertical-align.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\opacity.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\opacity.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\pagination.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\pagination.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\panels.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\panels.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\progress-bar.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\progress-bar.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\reset-filter.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\reset-filter.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\reset-text.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\reset-text.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\resize.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\resize.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\responsive-visibility.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\responsive-visibility.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\size.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\size.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\tab-focus.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\tab-focus.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\table-row.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\table-row.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\text-emphasis.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\text-emphasis.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\text-overflow.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\text-overflow.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\mixins\\vendor-prefixes.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\mixins\\vendor-prefixes.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\modals.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\modals.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\navbar.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\navbar.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\navs.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\navs.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\normalize.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\normalize.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\pager.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\pager.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\pagination.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\pagination.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\panels.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\panels.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\popovers.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\popovers.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\print.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\print.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\progress-bars.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\responsive-embed.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\responsive-embed.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\responsive-utilities.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\responsive-utilities.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\scaffolding.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\scaffolding.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\tables.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\tables.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\theme.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\theme.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\thumbnails.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\thumbnails.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\tooltip.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\tooltip.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\type.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\type.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\utilities.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\utilities.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\less\\wells.less",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\less\\wells.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\admin\\bootstrap\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\colors\\default.css",
+      "PackagePath": "staticwebassets\\admin\\css\\colors\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\linea-icons\\linea.css",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\linea-icons\\linea.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\spinners.css",
+      "PackagePath": "staticwebassets\\admin\\css\\spinners.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard1.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\js\\morris-data.js",
+      "PackagePath": "staticwebassets\\admin\\js\\morris-data.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\js\\toastr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\js\\waves.js",
+      "PackagePath": "staticwebassets\\admin\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\colors\\default.less",
+      "PackagePath": "staticwebassets\\admin\\less\\colors\\default.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\common.less",
+      "PackagePath": "staticwebassets\\admin\\less\\common.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\.bower.json",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\.gitignore",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\.npmignore",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\bower.json",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont-old.ttf",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont-old.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\extras.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\extras.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_extras.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\icons\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\admin\\less\\icons\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\pages.less",
+      "PackagePath": "staticwebassets\\admin\\less\\pages.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\responsive.less",
+      "PackagePath": "staticwebassets\\admin\\less\\responsive.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\sidebar-nav.less",
+      "PackagePath": "staticwebassets\\admin\\less\\sidebar-nav.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\spinners.css",
+      "PackagePath": "staticwebassets\\admin\\less\\spinners.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\style.less",
+      "PackagePath": "staticwebassets\\admin\\less\\style.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\less\\widgets.less",
+      "PackagePath": "staticwebassets\\admin\\less\\widgets.less"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-js\\dist\\chartist-init.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-js\\dist\\chartist-init.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-js\\dist\\chartist.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-js\\dist\\chartist.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-js\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-js\\dist\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\bower.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\dist\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\dist\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\package.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\src\\css\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\src\\css\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\test\\runner.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\chartist-plugin-tooltip-master\\test\\runner.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\jquery\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\jquery\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\.bower.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\bower.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\bower.travis.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\bower.travis.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\_template.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\_template.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\area-as-line.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\area-as-line.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\area.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\area.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\bar-colors.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\bar-colors.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\bar-no-axes.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\bar-no-axes.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\bar.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\bar.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\days.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\days.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\decimal-custom-hover.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\decimal-custom-hover.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\diagonal-xlabels-bar.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\diagonal-xlabels-bar.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\diagonal-xlabels.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\diagonal-xlabels.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\donut-colors.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\donut-colors.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\donut-formatter.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\donut-formatter.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\donut.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\donut.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\dst.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\dst.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\events.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\goals.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\goals.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\lib\\example.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\lib\\example.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\months-no-smooth.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\months-no-smooth.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\negative.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\negative.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\no-grid.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\no-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\non-continuous.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\non-continuous.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\non-date.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\non-date.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\quarters.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\quarters.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\resize.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\resize.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\stacked_bars.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\stacked_bars.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\timestamps.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\timestamps.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\updating.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\updating.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\weeks.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\weeks.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\examples\\years.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\examples\\years.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\morris.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\package.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\spec\\specs.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\spec\\specs.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\area0.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\area0.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\bar0.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\bar0.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\line0.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\line0.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\stacked_bar0.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\exemplary\\stacked_bar0.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\test.html",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\morrisjs\\spec\\viz\\test.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\sidebar-nav\\.bower.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\sidebar-nav\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\sidebar-nav\\bower.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\sidebar-nav\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\sidebar-nav\\dist\\sidebar-nav.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\sidebar-nav\\dist\\sidebar-nav.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\sidebar-nav\\dist\\sidebar-nav.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\sidebar-nav\\dist\\sidebar-nav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\sidebar-nav\\package.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\sidebar-nav\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\sidebar-nav\\src\\metisMenu.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\sidebar-nav\\src\\metisMenu.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\bower_components\\toast-master\\css\\jquery.toast.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bower_components\\toast-master\\css\\jquery.toast.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\admin-logo-dark.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\admin-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\admin-logo.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\admin-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\admin-text-dark.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\admin-text-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\admin-text.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\admin-text.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\large\\img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\large\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\arijit.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\arijit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\genu.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\genu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\govinda.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\govinda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\hritik.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\hritik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\pawandeep.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\pawandeep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\ritesh.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\ritesh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\sonu.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\sonu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\admin\\plugins\\images\\users\\varun.jpg",
+      "PackagePath": "staticwebassets\\admin\\plugins\\images\\users\\varun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\jquery.fs.boxer.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fs.boxer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\lightview.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lightview.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\slit-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slit-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\css\\superslides.css",
+      "PackagePath": "staticwebassets\\assets\\css\\superslides.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\close.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\i_next.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\i_next.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\i_prev.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\i_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\left.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\next.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\quotes.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\quotes.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\icons\\right.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\left.png",
+      "PackagePath": "staticwebassets\\assets\\img\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\member-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\parallax\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\197fb959-4490-4041-b560-f3c9fccc4673Screenshot 2023-05-09 113217.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\197fb959-4490-4041-b560-f3c9fccc4673Screenshot 2023-05-09 113217.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\37492228-2642-4277-832a-c9249d0dd67fScreenshot 2023-05-09 113217.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\37492228-2642-4277-832a-c9249d0dd67fScreenshot 2023-05-09 113217.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\a64344c4-eb42-4f7d-8cdd-fd569ae976d6Screenshot 2023-05-08 143211.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\a64344c4-eb42-4f7d-8cdd-fd569ae976d6Screenshot 2023-05-08 143211.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\ebbea53b-2b3a-498f-9333-c1715559a349Screenshot_20230302_122047.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\ebbea53b-2b3a-498f-9333-c1715559a349Screenshot_20230302_122047.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\item.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\item2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\item3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\item4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\item5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\portfolio\\item6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\right.png",
+      "PackagePath": "staticwebassets\\assets\\img\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\slide_bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slide_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\slider\\affinity.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\affinity.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\slider\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\img\\slider\\cinelli.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\cinelli.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\jquery.ba-cond.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ba-cond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\jquery.parallax-1.1.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.parallax-1.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\jquery.singlePageNav.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.singlePageNav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\jquery.slitslider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slitslider.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Blue\\Blue\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Blue.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Blue.props",
+      "PackagePath": "build\\Blue.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Blue.props",
+      "PackagePath": "buildMultiTargeting\\Blue.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Blue.props",
+      "PackagePath": "buildTransitive\\Blue.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
